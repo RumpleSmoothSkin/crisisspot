@@ -1,0 +1,26 @@
+    * { margin: 0; padding: 0;}
+      
+      html {
+        height: 100%;
+      }
+      
+      body {
+        position: relative;
+        height: 100%;
+        }
+      
+      #header {
+        height: 54px;
+      }
+      
+      #map {
+       /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+        min-height:calc(100% - 74px);
+      }
+      
+      #footer {
+        bottom: 0;
+        height: 20px;
+        width: 100%;
+        }
