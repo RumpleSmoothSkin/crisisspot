@@ -4,7 +4,7 @@ www.crisisspot.com
 
 Welcome and thank you for your interest in CrisisSpot. This is a volunteer project where we will be building a public tool for mapping of disaster and security related crises. 
 
-At the moment (22.09.2019) we have a barely functioning prototype, designed only to show what the general concept is support to be. If you are aware of an incident (right now only fires and floods are available), click on the icon in the toolbar and then on the map to place it. The icon should show in real time for other users. Click on the icon on the map to delete.
+At the moment (22.09.2019) we have a barely functioning prototype, designed only to show what the general concept is supposed to be. If you are aware of an incident (right now only fires and floods are available), click on the icon in the toolbar and then on the map to place it. The icon should show in real time for other users. Click on the icon on the map to delete.
 
 Setup/Install
 
@@ -21,4 +21,4 @@ The entire function needs to be rewritten, perhaps using sockets.io, for realtim
 
 Contact Info
 
-This project was started by Elad Yakobowicz but is open to all. Inquiries may be sent to crisisspot@gmail.com. 
+This project was started by Elad Yakobowicz and is open to all. Inquiries may be sent to crisisspot@gmail.com. 
